@@ -1,17 +1,9 @@
 source "https://rubygems.org"
 gem "rspec"
-
-source "https://rubygems.org/gems/hashie"
 gem "hashie"
-
-source "https://rubygems.org/gems/octokit"
 gem "octokit", "~>2.0"
-
-source "https://rubygems.org/gems/sinatra"
 gem "sinatra", "1.4.4"
-
-source "https://github.com/awesome-print/awesome_print"
-gem "awesome_print"
+gem "awesome_print", :source "https://github.com/awesome-print/awesome_print"
 
 
 group :development do
