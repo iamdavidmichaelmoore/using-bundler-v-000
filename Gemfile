@@ -7,7 +7,7 @@ end
 
 gem "awesome_print", :source => "https://github.com/awesome-print/awesome_print"
 
-
+source "https://rubygems.org"
 group :development do
   gem "pry"
 end
