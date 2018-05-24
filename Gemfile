@@ -4,7 +4,7 @@ gem "rspec"
 source "https://rubygems.org/gems/hashie"
 gem "hashie"
 
-source "https://rubygems.org/gems/octokit"
+source "https://rubygems.org/gems/hashie/versions/2.0.0
 gem "octokit", "~>2.0.0"
 
 source "https://rubygems.org/gems/sinatra"
